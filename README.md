@@ -107,10 +107,10 @@ Web applications and interfaces using HTML, CSS, JavaScript and PHP.
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://x.com/AmineMhff" target="_blank">
+  <a href="mailto:mahfoufamine010@gmail.com">
     <img
-      src="https://img.shields.io/badge/X-@AmineMhff-000000?style=for-the-badge&logo=x&logoColor=white"
-      alt="X / Twitter"
+      src="https://img.shields.io/badge/Gmail-mahfoufamine010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail"
     />
   </a>
 </p>
